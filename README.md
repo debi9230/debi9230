@@ -1,16 +1,19 @@
-### Hi there 👋
+### Oie!! Sou Débora Valentim Analista de Segurança Digital e Palestrante nas Horas Vagas
 
-<!--
-**debi9230/debi9230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Atualmente trabalho como Analista de Segurança da Informação e Perita em Crimes Digitais;
+- 📫 Você pode entrar em contato comigo através do LinkedIn ou Instagram;
+-  🌱 Estou aprendendo sobre novas tecnologias em forense computacional;
+- 💬 Pergunte-me sobre Segurança da Informação ou Pericia Digital; 
+- 👯 Procuro colaborar em projetos de codigo aberto; 
 -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" />
+          
+          
